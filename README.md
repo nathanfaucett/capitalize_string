@@ -1,4 +1,4 @@
-capitalize
+capitalizeString
 =======
 
-capitalize for the browser and node.js
+capitalizeString for the browser and node.js

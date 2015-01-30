@@ -1,15 +1,15 @@
 {
-  "name": "capitalize",
+  "name": "capitalize_string",
   "version": "0.0.1",
-  "description": "capitalize for the browser and node.js",
+  "description": "capitalize_string for the browser and node.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nathanfaucett/capitalize.git"
+    "url": "https://github.com/nathanfaucett/capitalize_string.git"
   },
   "main": "src/index.js",
   "keywords": [
-    "capitalize",
-    "capitalize.js"
+    "capitalize_string",
+    "capitalize_string.js"
   ],
   "author": "Nathan Faucett",
   "license": "BSD-2-Clause",
