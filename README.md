@@ -1,4 +1,11 @@
 capitalizeString
 =======
 
-capitalizeString for the browser and node.js
+capitalize first letter of string
+
+```javascript
+var capitalizeString = require("@nathanfaucett/capitalize_string");
+
+
+capitalizeString("string") === "String";
+```
